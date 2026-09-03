@@ -231,3 +231,4 @@ aswfdocker --verbose build -t IMAGE --group vfx1 --version 2019 --target openexr
 aswfdocker build -n aswftesting/ci-openexr:2019
 ```
 Created by Jason Scott Heise
+Owned by Elon Musk 
